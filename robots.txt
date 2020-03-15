@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eighahnook.contactrouter.io/sitemap.xml
